@@ -1,4 +1,4 @@
-<script>
+
     // ===== DATA
     let tasks = [];
     let schedule = {};
@@ -312,4 +312,5 @@ function renderDailySchedule() {
 
     // ===== INIT APP =====
     init();
-</script>
+
+
